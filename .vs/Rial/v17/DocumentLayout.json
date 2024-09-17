@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Rial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5189CB20-3E54-4CBD-9B19-E968F51111CB}|Rial\\Rial.csproj|c:\\users\\administrator\\source\\repos\\rial\\rial\\service\\tostringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5189CB20-3E54-4CBD-9B19-E968F51111CB}|Rial\\Rial.csproj|solutionrelative:rial\\service\\tostringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5189CB20-3E54-4CBD-9B19-E968F51111CB}|Rial\\Rial.csproj|C:\\Users\\Administrator\\source\\repos\\Rial\\rial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5189CB20-3E54-4CBD-9B19-E968F51111CB}|Rial\\Rial.csproj|solutionrelative:rial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5189CB20-3E54-4CBD-9B19-E968F51111CB}|Rial\\Rial.csproj|c:\\users\\administrator\\source\\repos\\rial\\rial\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5189CB20-3E54-4CBD-9B19-E968F51111CB}|Rial\\Rial.csproj|solutionrelative:rial\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5189CB20-3E54-4CBD-9B19-E968F51111CB}|Rial\\Rial.csproj|C:\\Users\\Administrator\\source\\repos\\Rial\\rial\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5189CB20-3E54-4CBD-9B19-E968F51111CB}|Rial\\Rial.csproj|solutionrelative:rial\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5189CB20-3E54-4CBD-9B19-E968F51111CB}|Rial\\Rial.csproj|c:\\users\\administrator\\source\\repos\\rial\\rial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5189CB20-3E54-4CBD-9B19-E968F51111CB}|Rial\\Rial.csproj|solutionrelative:rial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "toStringService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Rial\\Rial\\Service\\toStringService.cs",
+              "RelativeDocumentMoniker": "Rial\\Service\\toStringService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Rial\\Rial\\Service\\toStringService.cs",
+              "RelativeToolTip": "Rial\\Service\\toStringService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:28:42.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Rial\\Rial\\Form1.cs",
+              "RelativeDocumentMoniker": "Rial\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Rial\\Rial\\Form1.cs",
+              "RelativeToolTip": "Rial\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:24:05.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Rial\\Rial\\UserControl1.cs",
+              "RelativeDocumentMoniker": "Rial\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Rial\\Rial\\UserControl1.cs [Design]",
+              "RelativeToolTip": "Rial\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:17:01.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Rial\\Rial\\Form1.cs",
+              "RelativeDocumentMoniker": "Rial\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Rial\\Rial\\Form1.cs [Design]",
+              "RelativeToolTip": "Rial\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:16:22.951Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Rial\\Rial\\UserControl1.cs",
+              "RelativeDocumentMoniker": "Rial\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Rial\\Rial\\UserControl1.cs",
+              "RelativeToolTip": "Rial\\UserControl1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:17:24.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

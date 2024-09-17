@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Rial\Rial\bin\Debug\net8.0-windows\Rial.exe
+C:\Users\Administrator\source\repos\Rial\Rial\bin\Debug\net8.0-windows\Rial.deps.json
+C:\Users\Administrator\source\repos\Rial\Rial\bin\Debug\net8.0-windows\Rial.runtimeconfig.json
+C:\Users\Administrator\source\repos\Rial\Rial\bin\Debug\net8.0-windows\Rial.dll
+C:\Users\Administrator\source\repos\Rial\Rial\bin\Debug\net8.0-windows\Rial.pdb
+C:\Users\Administrator\source\repos\Rial\Rial\obj\Debug\net8.0-windows\Rial.Form1.resources
+C:\Users\Administrator\source\repos\Rial\Rial\obj\Debug\net8.0-windows\Rial.UserControl1.resources
+C:\Users\Administrator\source\repos\Rial\Rial\obj\Debug\net8.0-windows\Rial.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Rial\Rial\obj\Debug\net8.0-windows\Rial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Rial\Rial\obj\Debug\net8.0-windows\Rial.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Rial\Rial\obj\Debug\net8.0-windows\Rial.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Rial\Rial\obj\Debug\net8.0-windows\Rial.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Rial\Rial\obj\Debug\net8.0-windows\Rial.dll
+C:\Users\Administrator\source\repos\Rial\Rial\obj\Debug\net8.0-windows\refint\Rial.dll
+C:\Users\Administrator\source\repos\Rial\Rial\obj\Debug\net8.0-windows\Rial.pdb
+C:\Users\Administrator\source\repos\Rial\Rial\obj\Debug\net8.0-windows\Rial.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Rial\Rial\obj\Debug\net8.0-windows\ref\Rial.dll
